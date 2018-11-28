@@ -194,10 +194,7 @@ _Mobbing = Flow++_
 - if you are working on a one-person problem, you should probably automate it
 
 ## Links
-https://www.youtube.com/watch?v=RaDJrPelY1I
 
-Emailed Woody directly for the slides - to be added.
-woody@woodyzuill.com
 
 
 ### Biography
@@ -208,6 +205,13 @@ Woody believes that code must be simple, clean, and maintainable so that we can 
 
 
 ```
+Recording
+https://www.youtube.com/watch?v=RaDJrPelY1I
+
+Contact
+woody@woodyzuill.com
+- Emailed Woody directly for the slides - to be added.
+
 Mob Programming - A Whole Team Approach
 www.leanpub.com/mobprogramming
 ```
