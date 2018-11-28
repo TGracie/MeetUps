@@ -1,16 +1,14 @@
 # Mob Programming and the Power of Flow
   -- Woody Zuill
 
-## Links
-https://www.youtube.com/watch?v=RaDJrPelY1I
+## What - Definition - completely different, all together
+Product owners, DBA, programmers, testers, subject experts.
 
-Email Woody directly for the slides
-woody@woodyzuill.com
-
-```
-Mob Programming - A Whole Team Approach
-www.leanpub.com/mobprogramming
-```
+All the minds working
+- on the same thing
+- at the same time
+- in the same space
+- at the same computer
 
 ## Why?
 Software devs are at the pointy end. We get told what to do.
@@ -23,13 +21,6 @@ Apophenia - we all tend to take random data and find patterns
 MontyBoy.net
 
 2 people had tried MobProgramme, 3 had tried paired programming.
-
-## Definition - completely different, all together
-All the minds working
-- on the same thing
-- at the same time
-- in the same space
-- at the same computer
 
 ## Why Pair / Mob - common sense, lowest common denominator
 Working alone, you get the best and the worst of yourself in the work.
@@ -201,3 +192,14 @@ _Mobbing = Flow++_
   - no-one talks about code over lunch
   - give your brain a proper break
 - if you are working on a one-person problem, you should probably automate it
+
+## Links
+https://www.youtube.com/watch?v=RaDJrPelY1I
+
+Email Woody directly for the slides
+woody@woodyzuill.com
+
+```
+Mob Programming - A Whole Team Approach
+www.leanpub.com/mobprogramming
+```
