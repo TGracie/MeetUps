@@ -22,7 +22,7 @@ MontyBoy.net
 
 2 people had tried MobProgramme, 3 had tried paired programming.
 
-## Why Pair / Mob - common sense, lowest common denominator
+## Why Pair / Mob 
 Working alone, you get the best and the worst of yourself in the work.
 Working together, you get the best of each of you, and avoid the worst completely.
 
@@ -44,7 +44,7 @@ The feedback loop gets much much shorter - you often avoid the fix - bug - fix c
 - code was easier to read, cleaner, and better quality
 
 
-## How - driver/navigator
+## How - driver/navigator - managing common sense or lowest common denominator?
 Gather people who _together_ have all the needed skills and knowledge
 e.g. tester, product owner, facilitator, db administrator, experienced dev i.e. knowledge of tools, old hand i.e. knowledge of system/logic, new eyes i.e. notice assumptions
 
