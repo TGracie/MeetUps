@@ -200,7 +200,7 @@ Emailed Woody directly for the slides - to be added.
 woody@woodyzuill.com
 
 
-###Biography
+### Biography
 Woody Zuill, an independent Senior Agile Consultant, Trainer, and Guide and has been programming computers for 35+ years. 
 As a pioneer of the Mob Programming approach of teamwork for software development he has been sharing presentations and workshops on Mob Programming for conferences, user groups, and companies all over the world.
 
