@@ -205,13 +205,13 @@ Woody believes that code must be simple, clean, and maintainable so that we can 
 
 
 ```
-Recording
-https://www.youtube.com/watch?v=RaDJrPelY1I
+[Youtube Recording](https://www.youtube.com/watch?v=RaDJrPelY1I)
+
+[Deck](https://github.com/krismac/MeetUps/blob/master/MobProgrammingAndThePowerOfFlow_Handout.pdf)
 
 Contact
 woody@woodyzuill.com
 - Emailed Woody directly for the slides - to be added.
 
-Mob Programming - A Whole Team Approach
-www.leanpub.com/mobprogramming
+[Mob Programming book - A Whole Team Approach](www.leanpub.com/mobprogramming)
 ```
